@@ -2,24 +2,24 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<GuestDiplomacy.label>improve relationship</GuestDiplomacy.label>
+	<GuestDiplomacy.label>die Beziehungen verbessern</GuestDiplomacy.label>
 	<rep>
 		<path>GuestDiplomacy.logRulesInitiator.rulesStrings[0]</path>
-		<trans>logentry->Diplomatisches Gespr‰ch f¸hren mit [other_nameShortIndef].</trans>
+		<trans>logentry->Diplomatisches Gespr√§ch f√ºhren mit [other_nameShortIndef].</trans>
 	</rep>
 	<rep>
 		<path>GuestDiplomacy.logRulesRecipient.rulesStrings[0]</path>
-		<trans>logentry->Lausche diplomatischem Gespr‰ch von [other_nameShortIndef].</trans>
+		<trans>logentry->Lausche diplomatischem Gespr√§ch von [other_nameShortIndef].</trans>
 	</rep>
 
-	<CharmGuestAttempt.label>charm attempt</CharmGuestAttempt.label>
+	<CharmGuestAttempt.label>Ann√§herungsversuch</CharmGuestAttempt.label>
 	<rep>
 		<path>CharmGuestAttempt.logRulesInitiator.rulesStrings[0]</path>
 		<trans>logentry->Versuchte zu bezaubern[other_nameShortIndef] damit dieser bleibt.</trans>
 	</rep>
 	<rep>
 		<path>CharmGuestAttempt.logRulesRecipient.rulesStrings[0]</path>
-		<trans>logentry->Lausche einem Rekrutierungsversuch von [other_nameShortIndef].</trans>
+		<trans>logentry->Lauscht einem Rekrutierungsversuch von [other_nameShortIndef].</trans>
 	</rep>
 
 
